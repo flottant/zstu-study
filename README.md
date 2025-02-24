@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.picui.cn/free/2025/02/24/67bbce7c36d5b.png" width="70%" />
+  <img src="https://img.picui.cn/free/2025/02/24/67bbce7c36d5b.png" width="50%" />
 </div>
 # 关于 zstu.wiki
 
