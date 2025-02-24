@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://img.picui.cn/free/2025/02/24/67bbce7c36d5b.png" width="50%" />
+  <img src="https://img.picui.cn/free/2025/02/24/67bbce7c36d5b.png" width="40%" />
 </div>
+
 # 关于 zstu.wiki
 
 本网站旨在分享浙江理工大学的学习资料，目前以无盈利、无广告的方式运行。本网站的文件来自于https://github.com/chen2438/zstu-study ，在此对GitHub 分支贡献者、以及之前向我提供文件的学长学姐表示感谢。
