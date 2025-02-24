@@ -1,4 +1,4 @@
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a6e7f2d09cc248a297826724749c8519"}'></script><!-- End Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a6e7f2d09cc248a297826724749c8519"}'></script>
 
 ![1740361263646.png](https://img.picui.cn/free/2025/02/24/67bbce7c36d5b.png)
 
