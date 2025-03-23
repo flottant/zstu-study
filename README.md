@@ -1,6 +1,7 @@
-![67bbce7c36d5b.jpg](https://img.picui.cn/free/2025/02/24/67bbe44fce860.jpg)
+![chiyubanner.webp](https://cdn.jsdelivr.net/gh/flottant/cnjsd/img/chiyubanner.webp)
 
 ![:zstuwiki](https://count.getloli.com/@:zstuwiki?theme=morden-num)
+
 # 关于 zstu.wiki
 
 本网站旨在分享浙江理工大学的学习资料，目前以无盈利、无广告的方式运行。本网站的文件来自于https://github.com/chen2438/zstu-study ，在此对GitHub 分支贡献者、以及之前向我提供文件的学长学姐表示感谢。
@@ -28,10 +29,6 @@ Below is the description of the GitHub project.
 电子邮件: admin@vayki.com
 
 友情链接: [zstu.wiki](https://zstu.wiki/)
-
-### 分支说明
-
-main分支为项目主分支，dev分支为建议pull request分支，merge分支为经文件整理后分支（目前由zyrzjyzxy维护，含ZSTU_选课提示）。
 
 ### 项目简介
 
