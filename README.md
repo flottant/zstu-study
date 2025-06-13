@@ -1,7 +1,4 @@
-# 当前维护中，预计五一假期后可恢复正常下载
-
-
-
+# 域名更新：zstu.flot.moe
 
 ![chiyubanner.webp](https://cdn.jsdelivr.net/gh/flottant/cnjsd/img/chiyubanner.webp)
 
@@ -9,11 +6,11 @@ banner by [_QNE](https://space.bilibili.com/39293579)
 
 ![:zstuwiki](https://count.getloli.com/@:zstuwiki?theme=morden-num)
 
-# 关于 zstu.wiki
+# 关于 zstu.flot.moe
 
 本网站旨在分享浙江理工大学的学习资料，目前以无盈利、无广告的方式运行。本网站的文件来自于https://github.com/chen2438/zstu-study ，在此对GitHub 分支贡献者、以及之前向我提供文件的学长学姐表示感谢。
 
-# About zstu.wiki
+# About zstu.flot.moe
 This website aims to share study materials from Zhejiang Sci-Tech University and is currently operated in a non-profit, ad-free manner. The files on this website are sourced from https://github.com/chen2438/zstu-study. I would like to express my gratitude to the GitHub branch contributors and the seniors who previously provided me with these files.
 
 # 将网站上的文件以付费方式分享是禁止的！
