@@ -1,10 +1,8 @@
 # 域名更新：zstu.flot.moe
 
-![chiyubanner.webp](https://cdn.jsdelivr.net/gh/flottant/cnjsd/img/chiyubanner.webp)
+![chiyubanner.webp](https://img.flot.moe/file/1749976808347_chiyubanner.webp)
 
 banner by [_QNE](https://space.bilibili.com/39293579)
-
-![:zstuwiki](https://count.getloli.com/@:zstuwiki?theme=morden-num)
 
 # 关于 zstu.flot.moe
 
