@@ -1,8 +1,5 @@
 # 域名更新：zstu.flot.moe
 # zstu.wiki 现可用，但不由我维护
-![chiyubanner.webp](https://img.flot.moe/file/1749976808347_chiyubanner.webp)
-
-banner by [_QNE](https://space.bilibili.com/39293579)
 
 # 关于 zstu.flot.moe
 
