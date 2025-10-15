@@ -1,13 +1,5 @@
 # 域名更新：zstu.flot.moe
-
-# Vercel 报告单月流量即将超过100G，暑假期间暂停运营，请不要下载文件
-
-# Vercel 报告单月流量即将超过100G，暑假期间暂停运营，请不要下载文件
-
-# Vercel 报告单月流量即将超过100G，暑假期间暂停运营，请不要下载文件
-
-# 一切顺利将在9月开学时重新启用
-
+# zstu.wiki 现可用，但不由我维护
 ![chiyubanner.webp](https://img.flot.moe/file/1749976808347_chiyubanner.webp)
 
 banner by [_QNE](https://space.bilibili.com/39293579)
